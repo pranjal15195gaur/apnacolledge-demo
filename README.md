@@ -1,3 +1,3 @@
 # apnacolledge-demo
 my first repository <br>
-Author = Pranjal Gaur
+Author = Pranjal GaurmBTech
